@@ -1,0 +1,26 @@
+{
+  "name": "hmdev",
+  "version": "0.0.1",
+  "description": "这是一个脚手架项目",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leitp/hmdev.git"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "keywords": [
+    "脚手架工具"
+  ],
+  "author": "leitp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leitp/hmdev/issues"
+  },
+  "homepage": "https://github.com/leitp/hmdev#readme"
+}
