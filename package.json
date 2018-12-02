@@ -1,6 +1,6 @@
 {
   "name": "hmdev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "这是一个脚手架项目",
   "main": "index.js",
   "bin": "index.js",
